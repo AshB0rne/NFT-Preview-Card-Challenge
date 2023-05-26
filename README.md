@@ -8,7 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [The challenge](NFT Preview Card Component Challenge)
   - [links](
     - Solution URL: (https://www.frontendmentor.io/solutions/simple-nft-preview-card-with-fully-functional-hover-states-bqtVqQMSU4)
-    - Live Site URL: ()
+    - Live Site URL: (https://ashb0rne.github.io/NFT-Preview-Card-Challenge/)
   )
 - [My process]
   - [Built with](HTML5 & CSS custom properties)
@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [This is the URL of my solution for the challenge](https://www.frontendmentor.io/solutions/simple-nft-preview-card-with-fully-functional-hover-states-bqtVqQMSU4)
-- Live Site URL: [This is the live site URL](https://your-live-site-url.com)
+- Live Site URL: [This is the live site URL](https://ashb0rne.github.io/NFT-Preview-Card-Challenge/)
 
 ## My process
 
